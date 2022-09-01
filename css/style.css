@@ -187,7 +187,7 @@ header {
 }
 
 .carousel-control-prev-icon {
-    background-image: url("/assets/icons/movparts-arrow-left.webp");
+    background-image: url("./assets/icons/movparts-arrow-left.webp");
     background-position: center;
     background-color: #FFF;
     backdrop-filter: opacity(.2);
@@ -195,7 +195,7 @@ header {
 }
 
 .carousel-control-next-icon {
-    background-image: url("/assets/icons/movparts-arrow-right.webp");
+    background-image: url("./assets/icons/movparts-arrow-right.webp");
     background-color: #FFF;
     backdrop-filter: opacity(.2);
     border-radius: 50%;
@@ -276,7 +276,7 @@ header {
 
 .services {
     display: flex;
-    background-image: url(/assets/images/movparts-deposit.webp);
+    background-image: url(./assets/images/movparts-deposit.webp);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
