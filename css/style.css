@@ -276,7 +276,7 @@ header {
 
 .services {
     display: flex;
-    background-image: url(./assets/images/movparts-deposit.webp);
+    background-image: url("./assets/images/movparts-deposit.webp");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
