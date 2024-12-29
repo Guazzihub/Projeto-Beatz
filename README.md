@@ -50,10 +50,8 @@ As pontuações acima refletem a performance avaliada com base nas métricas do 
 
 ```plaintext
 ├── public
-│   ├── css
-│   │   └── style.css
-│   ├── js
-│   │   └── script.js
+│   │   └── styles.css
+│   │   └── scripts.js
 │   └── assets
 └── index.html
 ```
